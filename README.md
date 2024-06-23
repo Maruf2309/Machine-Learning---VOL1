@@ -36,5 +36,5 @@ Theory, facts, implementation, debugging
 
 
 ## 🛠 Skills
-Python, Numpy, Pandas, Scikit learn, seaborn, matplotlib, Algorithm, Statistics!
+Python, Numpy, Pandas, Scikit learn, seaborn, matplotlib, plotly Algorithm, Statistics!
 
