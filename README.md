@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="https://www.google.com/search?q=data+analysis&rlz=1C1VDKB_enBD1022BD1022&sxsrf=APwXEdfof2Q2h1poFklZrYaex2jDtePrEA:1680195896607&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi22ce8kYT-AhUicGwGHXwbDDkQ_AUoAnoECAEQBA&biw=1920&bih=969&dpr=1#imgrc=kf6i7IxwuDIGUM](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdatascientest.com%2Fen%2Fmachine-learning-what-is-it-and-why-does-it-change-the-world&psig=AOvVaw26YEoGbD6iPFpDKFRRJrGA&ust=1719254438831000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKj5_IOw8oYDFQAAAAAdAAAAABAE](https://datascientest.com/en/wp-content/uploads/sites/9/2021/01/Machine-learning-def-.png" width="80px"><br/> Machine Learning - VOL1 </h1>
+      <h1> <img src="https://datascientest.com/en/wp-content/uploads/sites/9/2021/01/Machine-learning-def-.png" width="80px"><br/> Machine Learning - VOL1 </h1>
      </div>
 
 Learing is Fun! Lets exploring AI!
