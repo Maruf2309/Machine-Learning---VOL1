@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="https://datascientest.com/en/wp-content/uploads/sites/9/2021/01/Machine-learning-def-.png" width="80px"><br/> Machine Learning - VOL1 </h1>
+      <h1> <img src="https://datascientest.com/en/wp-content/uploads/sites/9/2021/01/Machine-learning-def-.png" width="800px"><br/> Machine Learning - VOL1 </h1>
      </div>
 
 Learing is Fun! Lets exploring AI!
