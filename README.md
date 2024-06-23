@@ -1,9 +1,4 @@
-# Machine-Learning-VOL1
-Exploring Machine Learning
-
-
-
-# Machine Learning
+# Machine Learning - VOL1
 
 Learing is Fun! Lets exploring AI!
 
